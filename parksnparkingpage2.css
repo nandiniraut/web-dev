@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(45,187,84,255);
+  }
+
+  /* .content {
+margin: auto;
+padding-left: 25%;
+padding-right: 25%;
+align-self: center;
+  } */
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  
